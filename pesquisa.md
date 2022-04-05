@@ -1,13 +1,19 @@
 ## Pesquisa sobre Jogos Educacionais
 
+
+
 ### O que são "Jogos Educacionais"?
 
 Um **Jogo educacional** é um conceito de jogo (ou software) com finalidades educacionais, mas também pode ser definido por se constituem de atividades de formato instrucional (ou de aprendizagem) que envolva competição, e/ou que seja regulada por regras e/ou restrições. Os jogos educacionais são excelentes instrumentos educacionais, porém para serem utilizados dessa maneira, devem conter algumas características especificas para atender as necessidades de aprendizagem, ou seja, por esse motivo devem possuir objetivos pedagógicos, e sua utilização deve estar contida num contexto e em uma situação que justifique seu uso para finalidades educacionais, facilitando a aprendizagem de determinado conteúdo.
+
+
 
 ### Quais são suas finalidades?
 
 Existem diversas finalidades para os jogos educativos: Aprendizado de novas habilidades, desenvolvimento de habilidades cognitivas ou socialização em determinada situação são alguns bons exemplos.
 O aspecto interativo dos jogos educativos é útil para a finalidade de aprender, porque eles têm um caráter lúdico e desafiador, capaz de despertarem a curiosidade dos seus participantes, além de poderem também estimular a concentração, e fomentar uma competição saudável entre eles, por exemplo. Além disso, os jogos educativos também podem estimular o aprendizado ao manter a atenção do jogador em determinadas tarefas ou desafios.
+
+
 
 ### Requisitos necessários para que um jogo seja considerado "Educacional".
 
