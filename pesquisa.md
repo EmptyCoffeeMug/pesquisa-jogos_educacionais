@@ -49,8 +49,8 @@ Falando de uma forma mais simplificada: **Atenção** se refere as respostas cog
 
 >### Integrantes do Grupo:
 >
->*Antonio Marcos Siqueira
->*Guilherme Banzati Viana Ribeiro
->*Guilherme Gabriel Felipi
->*João Pedro Papp
->*Rafael Cerival da Cruz
+>*Antonio Marcos Siqueira</br>
+>*Guilherme Banzati Viana Ribeiro</br>
+>*Guilherme Gabriel Felipi</br>
+>*João Pedro Papp</br>
+>*Rafael Cerival da Cruz</br>
